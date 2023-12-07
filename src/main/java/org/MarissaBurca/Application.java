@@ -1,5 +1,6 @@
-package org.example;
+package org.MarissaBurca;
 
+import org.MarissaBurca.entities.*;
 import org.example.entities.*;
 
 import java.time.LocalDate;
